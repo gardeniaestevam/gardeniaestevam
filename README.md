@@ -6,5 +6,5 @@
 <p> ✨ Here you can see my progress! </p>
 
 ##### Get in touch: 📬
-<p> [Linkedin](https://www.linkedin.com/in/gard%C3%AAnia-estevam/) </p>
-<p> [Instagram](https://instagram.com/gardeniaestevam) </p>
+* [Linkedin](https://www.linkedin.com/in/gardenia-estevam/)
+* [Instagram](https://instagram.com/gardeniaestevam)
