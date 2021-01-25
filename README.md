@@ -1,6 +1,6 @@
 ### Hi, I'm Gardênia 👋:hibiscus:
 
-<p> 📚 Computer Science student at Universidade Federal do Cariri </p>
+<p> 📚 Computer Science at Universidade Federal do Cariri </p>
 <p> 📍 Living in Brazil </p>
 <p> 💻 Software Developer: Python | C | SQL </p>
 <p> ✨ Here, you can see my progress! </p>
