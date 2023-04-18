@@ -2,10 +2,10 @@
 
 <p> 📚 Computer Science at Universidade Federal do Cariri </p>
 <p> 📍 Living in Brazil </p>
-<p> 💻 Software Developer: Python | C | SQL </p>
+<p> 💻 Software Developer: Python | C | Java | SQL </p>
 <p> ✨ Here, you can see my progress! </p>
 
-##### Get in touch: 📬
+##### My profiles: 📬
 * [Linkedin](https://www.linkedin.com/in/gardenia-estevam/)
 * [Instagram](https://instagram.com/gardeniaestevam)
 * [Leetcode](https://leetcode.com/estevamgardenia/)
